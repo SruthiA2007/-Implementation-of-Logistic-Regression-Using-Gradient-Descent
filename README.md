@@ -99,7 +99,42 @@ print(y_prednew)
 
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+
+ Read the file and display
+
+![image](https://github.com/user-attachments/assets/41336fb6-c248-4c91-b2af-2c00c157cda5)
+
+Categorizing columns
+
+![image](https://github.com/user-attachments/assets/6a52dba1-6a88-42e2-bd61-352fc11ff79b)
+
+Labelling columns and displaying datase
+
+![image](https://github.com/user-attachments/assets/c4b907ff-7aa6-457a-b4f2-00c315b77474)
+
+Display dependent variable
+
+![image](https://github.com/user-attachments/assets/3e0992e5-e661-42cc-9e0b-89a263c1d6f5)
+
+Printing accuracy
+
+![image](https://github.com/user-attachments/assets/9c745781-ed7f-46c4-9710-97237536781f)
+
+Printing Y
+
+![image](https://github.com/user-attachments/assets/f92286e0-c899-42a2-8742-71890c013733)
+
+Printing y_prednew
+
+![image](https://github.com/user-attachments/assets/66b1833f-7fc1-4358-93aa-04c087dd1d54)
+
+
+
+
+
+
+
+
 
 
 ## Result:
